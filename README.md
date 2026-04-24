@@ -1,2 +1,1 @@
-# neutnn-rf
-NeuroAI Lab @ CMU
+# NeuroAI Lab @ CMU: Neu-RF
